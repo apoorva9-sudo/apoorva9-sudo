@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Spring framework,AWS**
 
-- 📫 How to reach me **ao.poorva.628z@gmail.com**
+- 📫 How to reach me **rapoorva796@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
