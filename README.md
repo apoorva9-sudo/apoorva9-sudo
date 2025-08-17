@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Apoorva</h1>
 <h3 align="center">A passionate backend developer</h3>
 
-- 🌱 I’m currently learning **Spring framework,AWS**
+- 🌱 I’m currently develipoing skills  with respect to  **Spring framework,AWS, cloud with integration of AI APIs and AI integrations**
 
 - 📫 How to reach me **rapoorva796@gmail.com**
 
